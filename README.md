@@ -5,6 +5,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koki0824)](https://solved.ac/koki0824)
 
+## Interest
+- Blockchain
+- IOS
+
 ## Skills & Languages
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
