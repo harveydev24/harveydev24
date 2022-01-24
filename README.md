@@ -6,8 +6,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koki0824)](https://solved.ac/koki0824)
 
 ## Interest
-- Blockchain
-- IOS 
+- Blockchain ⛓
+- IOS 🍎
 
 ## Skills & Languages
 <div>
