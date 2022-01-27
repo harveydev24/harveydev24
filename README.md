@@ -1,7 +1,11 @@
 # Jinhwan Kim
+## education
+- Mechanical Engineering @ SEOUL NAT'L UNIV (2016. 03 ~2022. 02)
+- SSAFY 7th (2022. 01 ~ present)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harveydev24&show_icons=true&theme=dark)
 
+## Baeckjoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koki0824)](https://solved.ac/koki0824)
 
