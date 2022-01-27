@@ -3,12 +3,6 @@
 - Mechanical Engineering @ SEOUL NAT'L UNIV (2016. 03 ~2022. 02)
 - SSAFY 7th (2022. 01 ~ present)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harveydev24&show_icons=true&theme=dark)
-
-## Baeckjoon
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koki0824)](https://solved.ac/koki0824)
-
 ## Interest
 - Backend
 - Blockchain 
@@ -32,3 +26,11 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white"/>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harveydev24&show_icons=true&theme=dark)
+
+## Baeckjoon
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koki0824)](https://solved.ac/koki0824)
+
+
