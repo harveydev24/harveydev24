@@ -30,7 +30,7 @@
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harveydev24&show_icons=true&theme=dark)
 
-## Baeckjoon
+## Baekjoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koki0824)](https://solved.ac/koki0824)
 
