@@ -1,5 +1,9 @@
 # Jinhwan Kim
 
+## Education
+- Mechanical Engineering @ SEOUL NAT'L UNIV (2016. 03 ~2022. 02)
+- SSAFY 7th (2022. 01 ~ present)
+
 ## Interest
 - Backend
 - Blockchain 
