@@ -7,7 +7,7 @@
 ## Interest
 - Backend
 - Blockchain 
-- IOS 
+- Interactive Design
 
 ## Skills & Languages
 <div>
