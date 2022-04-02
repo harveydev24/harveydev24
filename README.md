@@ -28,16 +28,21 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 </div>
 
-## Wanna learn
+## Studying
 <div>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+</div>
+
+## Wanna learn
+<div>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white"/>
 </div>
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harveydev24&show_icons=true&theme=dark)
+![harveydev24's github stats](https://github-readme-stats.vercel.app/api?username=harveydev24&show_icons=true)
+[![harveydev24's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harveydev24ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/harveydev24)
 
 ## Baekjoon
 [![Solved.ac
